@@ -6,7 +6,7 @@ Simple YouTube clone realized with [YOUTUBE](https://developers.google.com/youtu
 ![demo](public/img/yt-demo.gif)
 
 ## Installation
-To install node module use this command:
+To install node modules use this command:
 ```
 npm i
 ```
